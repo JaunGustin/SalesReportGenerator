@@ -1,0 +1,5 @@
+TI;1001;Camila;Perez
+CE;1002;Juan;Vargas
+CE;1003;Valentina;Ramirez
+TI;1004;Valentina;Martinez
+CC;1005;Andres;Torres
